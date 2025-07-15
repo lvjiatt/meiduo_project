@@ -5,6 +5,7 @@ __pycache__/
 .idea
 # C extensions
 *.so
+meiduo_mall/
 
 # Distribution / packaging
 .Python
